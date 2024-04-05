@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow-Square</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Arrow-Square" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle-2-Copy" fill="#EF3B29" x="0" y="0" width="30" height="30" rx="15"></rect>
+            <path d="M19.8645826,8.16815702 C19.6757607,7.95789106 19.352066,7.9426544 19.145261,8.13463636 L12.1648445,14.6163129 C12.0599435,14.7138276 12,14.8540049 12,15.0002769 C12,15.1465488 12.0599435,15.2836788 12.1648445,15.3842408 L19.145261,21.8659174 C19.2441677,21.9573373 19.3670518,22 19.4899359,22 C19.6278059,22 19.7656759,21.9421007 19.8675798,21.8323967 C20.0564017,21.6221307 20.0414158,21.2930188 19.8346109,21.1010369 L13.2618099,15.0002769 L19.8316137,8.89951686 C20.0414158,8.7075349 20.0564017,8.38147031 19.8645826,8.16815702 Z" id="Shape" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF" fill-rule="nonzero" transform="translate(16.000000, 15.000000) scale(-1, 1) translate(-16.000000, -15.000000) "></path>
+        </g>
+    </g>
+</svg>
